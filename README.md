@@ -1,5 +1,5 @@
 # ApplicationAssistant
-A bot meant to aid in applications as it cross-references a tracking application with your inbox, automatically updating the spreadsheet and sending you a Push notification to your phone! See my demo [here!](https://www.youtube.com/watch?v=R0KMam2z1JI)
+A bot meant to aid in applications as it cross-references a tracking application with your inbox, automatically updating the spreadsheet and sending you a Push notification to your phone! See my demo [here!](https://www.youtube.com/watch?v=VT6EUjjL9EQ)
 
 # INTRODUCTION
 
